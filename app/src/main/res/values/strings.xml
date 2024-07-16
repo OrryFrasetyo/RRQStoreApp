@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">RRQStoreApp</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_cart">Keranjang</string>
+    <string name="menu_profile">Profile</string>
+    <string name="price">Rp%.3f</string>
+    <string name="plus_symbol">＋</string>
+    <string name="minus_symbol">—</string>
+    <string name="add_to_cart">Tambah ke Keranjang : Rp%.3f</string>
+    <string name="total_order">Total pesanan : Rp%.3f</string>
+    <string name="back">Back</string>
+    <string name="rrq_shop">RRQ Shop</string>
+    <string name="share_message">Bagikan Pesanan</string>
+    <string name="search_shop">Cari Barang Kesukaanmu</string>
+    <string name="my_name">Orry Frasetyo</string>
+    <string name="bangkit">Bangkit Cohort 2024 Batch 1</string>
+    <string name="gender">Gender</string>
+    <string name="male">Male</string>
+    <string name="age">Age</string>
+    <string name="number">20</string>
+    <string name="location">Location</string>
+    <string name="country">Padang, Indonesia</string>
+    <string name="email">Email</string>
+    <string name="gmail">orryfratyo@gmail.com</string>
+</resources>
